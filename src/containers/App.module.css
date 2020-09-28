@@ -1,0 +1,14 @@
+.App {
+  margin: 0 auto;
+  margin-top: 20px;
+  text-align: center;
+  width: 90%;
+  min-width: fit-content;
+  background-color: white;
+  box-shadow: 0 3px 6px #423f40;
+  border-radius: 0.2em;
+  padding: 25px;
+  padding-bottom: 50px;
+}
+
+/* radium is a package that allows us to use inline styles with sudo slectors and media queries  */
